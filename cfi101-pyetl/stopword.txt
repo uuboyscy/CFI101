@@ -1,0 +1,6 @@
+http
+https
+com
+Re
+00
+...
